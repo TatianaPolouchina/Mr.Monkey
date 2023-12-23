@@ -1,0 +1,640 @@
+Crab soccer
+Split children into two teams and create 2 goals. The game starts when the leader places the ball in the centre of the playing area. Players can only kick or hit the ball with their feet and/or head; no hands are allowed. If the ball goes into the opposing team's net, a point is awarded to the team who shot the goal. The leader can reset the ball in the Mediumdle of the playing area. The team with the most goals at the end of the game wins.
+Active
+-
+6
+100
+High
+Gym
+Outdoors
+5
+100
+Y
+Ball
+10
+30
+N
+Octopus
+Select two students to be the octopus and place them in the Mediumdle of the gym.Have the other children stand at one end of the gym. When the octopuses yell "Octopus" , the children try to run to the other side of the gym. If an octopus tags them before they reach the other wall, they must sit on the ground and are now seaweed, and must stick out their arms to catch other children. Remember, seaweed cannot move. The last child remaining at the end of the game is the winner!
+Active
+-
+10
+100
+High
+Outdoors
+Gym
+5
+100
+N
+-
+5
+30
+N
+Beaver Sam
+One player starts in the Mediumdle of the gym while everyone else is against one wall. Everyone chants: "Beaver Sam, Beaver Sam, May We Cross Your Beaver Dam?" The person in the Mediumdle answers "Only if..." and specifies something such as "Only if you are wearing purple." Then the people who are wearing purple get a free walk across to the other side of the gym. Once they have all crossed the gym, the person in the Mediumdle will call "Go!" and everyone who did not meet the criteria must run to the opposite wall without being tagged by the person in the Mediumdle. Anyone tagged joins the person in the Mediumdle and will try to tag people in the next round. The game continues until everyone is tagged.
+Active
+-
+10
+100
+High
+Gym
+Outdoors
+5
+13
+N
+-
+10
+30
+N
+Red Light Green Light
+Have one player be the traffic cop and stand on one side of the playing area, with all other players standing in a straight line facing them. The traffic cop will shout "green light", and all players will run towards them. When traffic cop shouts "red light", they will turn around and all other players must freeze. If the traffic cop sees a player moving, they must go back to the starting line. The first player to pass the traffic cop without being seen moving wins!
+Active
+-
+5
+100
+High
+Gym
+Outdoors
+4
+12
+N
+-
+5
+30
+N
+Four Corners 
+Label 4 corners in a gym as corners 1, 2, 3 and 4. All players must start in the Mediumdle, and the leader will yell out a corner number, and all players must run to that corner. The last player to reach that corner is eliminated. The final player left in the game is the winner.
+Active
+-
+10
+100
+High
+Gym
+-
+6
+100
+N
+-
+10
+30
+N
+Dead Ant
+One person is "it" This person has to chase the others. When he tags someone, that person must lay down with both hands and feet sticking straight up, like a dead ant (because everyone knows that's what dead ants look like). In order for the dead ant to come alive, four people must tag one limb each. Once someone has been a dead ant three times (this is on the honor system), they are now "it". It's always possible to have multiple people being "it" and makes it crazier when you don't know who to run from!
+Active
+-
+10
+100
+High
+Gym
+Outdoors
+7
+100
+Y
+Gym mats
+15
+40
+N
+Toilet Tag
+Toilet tag is similar to regular tag with a twist, when you are tagged, you become a toilet! Choose one player to be "it". This player must tag other players by running and tapping them. When a player is tagged they must kneel or sit on the ground with their hand out to the side like a toilet handle. If another player taps their hand (as if they are flushing the toilet) the player who was tapped can unfreeze and is back in the game. The game ends when all players have been tapped and are ''toilets''.
+Active
+-
+10
+100
+High
+Gym
+Outdoors
+5
+14
+N
+-
+10
+30
+N
+Rock Paper Scissors Baseball
+Create 4 stations/markers, choosing one to be a starting point. All players will start at this starting point and when the game begins, they will play rock paper scissors with any other player at their station. If they lose, they must find another player at that station to play with, continuing to do so until they win. If they win, they must run to the next station and continue playing rock paper scissors, moving to the next station after every win. If a player returns to the starting station, they earn one point and continue playing. After a set amount of time, the leader will announce that the game has ended and the player with the most points wins.
+Active
+-
+10
+100
+High
+Gym
+Outdoors
+6
+100
+N
+-
+10
+20
+N
+Gaga Ball
+One person throws the ball up in the air and allows it to bounce three times. All players must have their backs to the wall until the third bounce. When the ball bounces, all of the players shout "Ga" each time. After the third time the ball has bounced, the game has officially begun Players then hit the ball with open hands (but they cannot grab and throw it). Once the ball touches you below the waist, you are out of the game. If you "double touch" the ball, you are out. If you hit the ball out of the pit and it does not touch any player, you are out. If you hit another player above the waist (or knee in some cases), you are out. When only 2 to 4 players are left, another ball may be thrown into the mix. The last player in the pit who has not been hit is the winner, and then the game can start again
+Active
+-
+5
+100
+High
+Gym
+-
+8
+100
+Y
+Ball
+10
+60
+N
+Team Rock Paper Scissors
+Split the children into two groups. Each team will stand at one wall and decide as a team whether or not they will be a rock, paper, or scissors. Once everyone is ready, the teams line up to face each other in the Mediumdle of the gym or playing area. Everyone will chant "rock, paper, scissors!" and form their choice with their bodies. Rocks will hold their knees, paper stands up straight with their arms and legs out in a star formation, and scissors will hold their arms in front of them, like the blades of open scissors. The winning team will chase the losing team to their end of the gym, tagging players along the way. If a player is tagged, they must join the opposing team. The game ends when all of the players are on one team.
+Active
+Teamwork
+10
+100
+High
+Gym
+Outdoors
+5
+100
+N
+-
+10
+30
+N
+Wax Museum
+Choose one player to be the security guard of the wax museum.  They have to close their eyes and count to ten.  The other players are wax statues and must all strike a pose. If the security guard sees a wax statue moving, that statue becomes a security guard as well. The wax statues must change poses at least once per minute. Security guards cannot touch the statues, but they can try to make them laugh or move without touching them. The last person caught moving wins.
+Active
+-
+6
+100
+Medium
+Anywhere
+-
+5
+100
+N
+-
+10
+30
+N
+Egg Chicken Dinosaur
+Each player has a type in the evolution chain and must do the action for that type to find other players of the same type. Egg - walk around on the ground in a little ball, sort of like the fetal position on your feet. Chicken - walk bent over and flapping wings. Dinosaur - tromp around, roar, and make t-rex arms. Everyone starts out as an egg. Each player finds another player who is the same type as himself and plays Rock Paper Scissors. The winner goes up one step in the evolution chain. The loser goes down one step. (If the loser is an egg, he remains an egg.) The game can last any amount of time, those who are dinosaurs at the end of the game win.
+Active
+-
+5
+100
+Medium
+Anywhere
+-
+4
+10
+N
+-
+5
+20
+N
+Line tag
+Just like in regular tag, choose someone to be It. And just like in regular tag, the It runs around and tries to tag the other players, making them It instead. But unlike regular tag, all players (including It) can only run on the lines of the court. So no touching the ground unless you're on a line. Once It tags someone, that person becomes the new It and runs around trying to tag someone else. Depending on how many people you're playing with, you might want to have more than one person as It.
+Active
+-
+10
+100
+High
+Gym
+-
+7
+15
+N
+-
+10
+30
+N
+Fire on the mountain
+All players must lie on their backs on the floor, with arms and legs straight out. If the leader says the words "Fire on the mountain", all player must stand up as quick as possible, and the last player to stand is eliminated. The leader can try to trick the player by saying different words, such as ''fire on the moose" or "fire on the moat''. If any player flinches or moves when these words are said, they are eliminated as well. The last player in the game wins.
+Active
+-
+3
+100
+High
+Outdoors
+Gym
+6
+100
+N
+-
+5
+15
+N
+SPUD
+With everyone standing close to you, throw the ball straight into the air while shouting out one of the student's numbers. The student whose number has been called quickly gets the ball and shouts "SPUD" as soon as they touch it. All other students run away until they hear "SPUD". When they hear "SPUD," the student with the ball may then take four steps, spelling "S", "P", "U", "D" with each step towards any other student. S/he may then roll or throw the ball at a student, trying to hit below the waist. The frozen student cannot move their feet, but may try to catch the ball or evade with their upper body. If the student is hit with the ball, they get a letter (i.e. "S"). If they catch it or the thrower misses, the thrower gets a letter. Whichever student received a letter gets to begin the next round by throwing the ball up and shouting a new number. If a student gets all four letters (SPUD) they are out and get to do a task (i.e. jumping jacks) to get back into the game.
+Active
+-
+5
+100
+High
+Gym
+Outdoors
+7
+100
+Y
+Ball
+10
+30
+N
+Jewel Thief
+The goal of Jewel Thief is to steal the jewel from the jewel protector. Have everyone stand in a circle, with a ball in the Mediumdle of the circle. There will be a jewel protector who stands in the circle, and can stand anywhere near the jewel, but not on top of it. 1 player will be the tapper, and they can walk around the circle and tap up to 3 people on the back at a time. If someone has been tapped, they have one minute to run forward, grab the ball, and return to their original spot with it. If they succeed, they win and become the new jewel master. If the jewel protector taps them before they make it to their spot, they put the jewel back and the game continues. All tapped players can run at the same time, or one at a time. Once someone has run, the tapper is free to tap another player secretly on the back. If a player waits one minute after being tapped and has still not run, they lose their chance and a new player can be tapped.
+Active
+-
+5
+100
+High
+Gym
+Outdoors
+8
+100
+Y
+Ball
+10
+40
+N
+Bring me up
+Split players up into groups of 3-10. Space these groups an equal distance away from the leader. The leader will yell "bring me up…" followed by an object or oerson, such as "someone who can do a cartwheel", or "a sun hat". Each group can send one person, and the first person to run up with the object/person wins a point for their group.
+Active
+-
+5
+100
+High
+Gym
+Outdoors
+5
+100
+N
+-
+10
+40
+N
+Huckle Buckle
+Assign each player a partner. Have the partners split up and stand across from each other. The groups will form two lines about 20m apart. The leader will yell out "huckle buckle" followed by two body parts, for example "huckle buckle elbow to knee". The last partnership to touch those two body parts is eliminated. All other players return to their lines and a new combination is called out until one partnership remains. This last partnership in the game wins.
+Active
+Teamwork
+8
+100
+High
+Gym
+Outdoors
+6
+100
+N
+-
+10
+40
+N
+Elephant Ball
+Have players stand in a circle, facing inward. They must spread their legs a little more than shoulder-width apart and their feet should be resting against those of the players to either side. There should be no unoccupied spots in the circle. Introduce a ball into the circle. Players may hit the ball with both hands clasped with the goal of knocking it through the legs of another player and trying to prevent it from going through their own legs. If the ball passes through the legs of a player they are eliminated and the circle should fill the gap that they left by becoming smaller. Players are not allowed to crouch. It can be a good idea to have someone assigned to fetch the ball when it goes out of the circle to keep the game's momentum going. You can also add in more balls. The last two remaining players are the winners.
+Active
+-
+10
+100
+High
+Gym
+Outdoors
+7
+100
+Y
+Ball
+10
+30
+N
+Chuck the chicken
+The class is divided into two teams: an offensive "running" team and a defensive "fielding" team. The offensive team begins in possession of a rubber chicken. To begin the game, the player in possession of the chicken will call "CHUCK THE CHICKEN" and then throw the chicken to an open space on the field. As soon as they do so, the running team gets into a tight circle formation and the player who threw the chicken begins to run around the circle, scoring a point for each lap they complete. To stop the running team from scoring a large number of points, the fielding team must field the chicken. To do so, a player from the fielding team runs and collects the chicken. Once in possession of the chicken, they must wait for the rest of their teammates to line up behind them. As soon as all of the members of the fielding team are in a line, they begin to pass the chicken to the back of the line using an over/under pattern. Once the chicken makes it to the last player in the line, that player calls "CHUCK THE CHICKEN", throws the chicken, and the teams exchange roles. The game ends once every player has had a turn to throw and run.
+Active
+-
+10
+100
+High
+Gym
+Outdoors
+7
+100
+Y
+Chicken toy or another soft object
+10
+30
+N
+Streets and Alleys
+Have two campers volunteer to be "It" one will be a cat and the other a mouse (or any other version of pursuer and pursued you can come up with). The facilitator will then be in charge of the rest of the group. The rest of the campers will need to get into lines (the more square the group the better, so if you have say 25 campers, have 5 rows of 5). With the campers in lines, have them face the facilitator, with their arms stretched out. This will be "streets" and the cat and mouse are able to run in the openings between the lines, but they can't break through the arms. When the facilitator yells "alleys" the campers turn to the left and change the layout of the "map" so now the cat and mouse have to cope with a different path.
+Active
+-
+10
+100
+High
+Gym
+Outdoors
+8
+100
+N
+-
+10
+30
+N
+Hot Dog Tag
+Choose 3-5 people to be "it". Everyone else spreads out around the playing area. When a player gets tagged, he/she must lie down on the ground with their arms at their sides and legs together (they are the hot dog). As the player is laying on the ground they yell, "I need buns!". In order for a hot dog to rejoin the game, two other players must come to his/her rescue. One player needs to lie on each side of the hot dog to make a complete hot dog (wiener and bun). Once a complete hot dog has been made, all three players can rejoin the game. Switch taggers every 1-2 minutes. Play for a set time or until everyone is tagged.
+Active
+-
+10
+100
+High
+Gym
+-
+8
+100
+N
+-
+10
+30
+N
+Follow the dancer
+The goal of the game is to guess who the dancer is. Choose one detective to leave the room while a dancer is chosen. Then, play music and have the dancer dance and walk around, with all other players copying their movements. The detective can re enter and has 3 guesses as to who the lead dancer is. If they guess correctly, they win! 
+Active
+-
+10
+100
+High
+Gym
+Outdoors
+5
+13
+N
+-
+5
+30
+N
+Capture the flag
+Start all players at a neutral location on the edge of the playing area. When the game begins, players try to cross into opposing teams' territories to grab their flags. Some teams might strategize beforehand and designate some players as seekers (who will go on the offense to try to find the other team's flag) and others as guards (who will protect their own flag). Teams should not guard their flags too closely, as it makes it too challenging. One way to do this is to disallow players to be within 10 feet of their own flag unless an opposing team's player is present. When a player is in an opposing team's territory, they can be captured by that team's players. If they tag the player, the player must either be tagged by one of their own players or perform a task-say, five jumping jacks or three push-ups-before returning to their own territory. Players are safe and can't be captured any time they cross back to their own team's territory. The game ends when one team has successfully grabbed the flag(s) from the other team or teams and returned to their own territory. If you have more than two teams, decide how the winner will be determined. Must one team gather all other team flags or just a majority?
+Active
+-
+10
+100
+High
+Gym
+Outdoors
+8
+100
+Y
+2 hoops, 2 flags (or beanbags), a rope or jumprope to act as a barrier between sides
+20
+45
+N
+Sharks and Minnows
+A simple, fun chasing game that is sure to get the wiggles out. One student is the shark and every student they tag becomes a shark, too. The students left are the minnows. They can run in any direction to avoid the shark, so strategy is of the essence if they don't want to be caught!
+Active
+-
+10
+50
+High
+Gym
+Outdoors
+5
+100
+N
+-
+10
+30
+N
+Princess and the Pea
+Just like the fairy story 'Princess and the Pea', kids must detect the 'pea'. Hide a small object under a mat and have the kids sit on them to discover which one has the pea. To increase difficulty you may switch to a smaller object or add more mats. Players can work as a group or go one at a time. 
+Active
+-
+2
+20
+Medium
+Gym
+-
+4
+12
+Y
+Mats, any small object
+10
+20
+N
+Team Dance Battle
+Pair children into groups of 4 to 8. Choose one group to perform first. This group will get to listen to 5 seconds of a song, and then will have 30 seconds to discuss and choreograph their dance. Once 30 seconds are up, they must improvise and perform their dance for the other groups. The teams can also be mixed up by calling up the youngest or oldest members of each group, for example. A winning group can be crowned by vote at the end of all of the performances.
+Active
+-
+10
+100
+High
+Gym
+Outdoors
+6
+100
+Y
+Speaker/Music player
+15
+45
+N
+Partner Yoga
+Have the participators find a partner who is similar in height. Lay out mats in a circle and have each pair find a mat. The leader will go around the circle with a photo of a partner yoga pose for each pair to recreate, and two leaders will attempt the pose as well in the Mediumdle of the circle as a demonstration. Give ample time for each pose, and make sure to include both easy and challenging poses to try.
+Active
+Teamwork
+2
+100
+Medium
+Gym
+Outdoors
+8
+100
+Y
+Mats, photos of yoga poses 
+15
+60
+N
+Common Thread
+Divide large group into smaller groups. Instruct each group to find 5-10 (depending on the time frame) things they all have in common. Challenge them to think creatively; places they have traveled, TV show they have watched, some other experience. The first group to come up with the designated number of things wins, points for creativity too!
+Icebreaker
+-
+8
+100
+Low
+Anywhere
+-
+6
+100
+N
+-
+5
+20
+N
+Human knot
+Tell players to put their right arms into the air and to reach over and take the hand of another player. They shouldn't hold the hands of players standing next to them. At this stage, it's a nice touch to get players to introduce themselves to the people whose hands they're holding. When everyone has a hand, tell players to hold their left hands in the air and to take the left hand of another player. This should be a different person to the one whose right hand they are holding. Tell them that they must now untangle themselves from the knot -- without letting go of any hands at any time -- to make a circle. You can set a time limit, if you wish. If a player breaks the chain by letting go of a hand, the game is void and the group must start over.
+Icebreaker
+Teamwork
+5
+100
+Medium
+Gym
+Outdoors
+8
+100
+N
+-
+5
+20
+N
+Beanbag Name Game
+The goal is to get everyone to catch the beanbag, and learn each other's names in the process. One player will start with the beanbag, then say the name of the person they would like to pass it to. This continues until everyone has had one chance with the beanbag. If the beanbag is not caught and falls to the ground, the game must restart from the beginning, and everyone must pass to the same person as the last round.
+Icebreaker
+Quiet
+8
+100
+Low
+Anywhere
+-
+6
+100
+Y
+Beanbag/Ball
+10
+30
+N
+Would You Rather
+Choose two relatively equal options and have the players share which they would pick and why. Some examples include: "Would you rather eat pizza or cake?", "would you rather go skydiving or bungee jumping?", or "would you rather be burning hot or freezing cold?"
+Icebreaker
+Quiet
+2
+100
+Low
+Anywhere
+-
+6
+100
+N
+-
+5
+30
+N
+2 Truths and a Lie
+The main instructions of the game are that each member of the group introduces themselves by stating two truths and one lie about themselves. The lie can be outrageous and wacky, or it can sound like a truth to make it harder for the other participants. One at a time, each person shares their statements. The group has to guess which statements are true and which statement is the lie. You can keep score to see who correctly guesses the most lies, or just play for fun to get to know one another-it's up to your group.
+Icebreaker
+Quiet
+2
+100
+Low
+Anywhere
+-
+6
+100
+N
+-
+5
+30
+N
+Flinch
+One player (the flinch master) stands in the Mediumdle of a circle created by the other players. The flinch master tosses the ball to each person in the circle in no particular order. The flinch master has two options: pass the ball or pretend to pass the ball. If the flinch master passes the ball and the other player catches it they remain in the game. If they fail to catch it, they are out. Inversely, if the flinch master pretends to throw the ball, a player who does not move remains in the game, but if they flinch or make a move to catch the ball, they are out. The ball must be thrown underhand and the leader will determine if a dropped pass is a good throw or not. The last person standing becomes the new flinch master.
+Circle
+-
+5
+100
+Medium
+Anywhere
+-
+6
+100
+Y
+Ball
+10
+30
+N
+Squirt
+Have participants stand in a circle around a player chosen to be the Squirtmaster. The Squirtmaster clasps their hands with their two pointer fingers pressed together and points at random players in the circle, saying "Squirt". The player pointed at must duck down, and the two players on either side point at each-other with hands clasped and yell "Squirt!". The first one to do this wins and stays standing. The person who didn't say squirt or who said it too late is eliminated and sits down where they were standing. The player who ducked stands back up. The player who ducks may also be eliminated if they don't duck before one of the players to the side shouts "Squirt!". The game becomes more tricky as the spaces between the players widen. The game continues until there are two players remaining. These two players then have a Squirt-off. They stand back-to-back and start walking away from each other as the counsellor tells a story and when the counsellor says "Squirt!" (as part of the story) they must turn around, point at each-other and yell "Squirt!". The first to do so is the winner, and gets to be the Squirtmaster in the next round.
+Circle
+-
+8
+100
+Medium
+Anywhere
+-
+8
+100
+N
+-
+10
+30
+N
+Wah
+Play begins when a designated player raises both arms over their head with palms together to form a "tree" and says "Wah!" . The two players on either side of the tree become lumberjacks and must chop the tree down by placing their own palms together and simultaneously make one chopping motion toward the Mediumsection of the tree while also saying "Wah!" (Remember not to actually touch the tree with the chopping motion). When the tree is chopped, it falls by bending at the waist, saying "Wah!" and pointing to another member of the circle. The fallen tree may point to anyone in the circle except the players directly next to them. The player whom the fallen tree points at must immediately become the next tree by raising both arms together and saying "Wah!". The game continues with the players on either side of the new tree chopping it down, the tree falling and pointing at another player, and the player pointed at creating the next tree. If at any time a member of the circle hesitates, performs the wrong motion or does not say "Wah!", that player must step outside the circle. The game stops to let the player step out and starts again when a new tree goes up (anyone may do this). Players outside the circle remain active by walking around the circle and distracting the remaining players by heckling them (without touching or yelling). As players are eliminated, the circle continues to shrink until the final four players are congratulated as the winners.
+Circle
+-
+7
+100
+Medium
+Anywhere
+-
+8
+100
+N
+-
+5
+30
+N
+Guess the voice
+One player will sit in the Mediumdle of the circle with their eyes closed. Another player will be chosen to go up to the camper in the Mediumdle and say something in a funny voice. The camper in the Mediumdle must guess who it was. If they guess incorrectly they stay in the Mediumdle and try again, for a maximum of 3 turns.
+Circle
+-
+5
+100
+Low
+Anywhere
+-
+6
+100
+N
+-
+5
+30
+N
+Debate
+Split the class into two even groups. Select a topic of discussion that group A can speak in favour of and group B can speak against. The topic can be related to concepts covered in previous class lessons. Ask the groups to sit facing each other and begin the discussion. Encourage students to play devil's advocate and challenge specific points brought up by their opposing group. 
+Education
+-
+8
+100
+Medium
+Classroom
+-
+8
+100
+N
+-
+10
+30
+N
+Around The World Math
+Organize students into a circle. The first student stands behind a child in a circle and reads out a flashcard with a math problem. Both students compete to figure out the math problem first. The first student who calls out the correct answer moves to stand behind the next student in the circle.
+Education
+-
+5
+100
+Medium
+Classroom
+Outdoors
+6
+100
+Y
+Flash cards with math problems
+10
+40
+N
+Case studies
+Divide the students into even groups and provide the students with a real-life problem/difficult scenario. Ask the students to discuss with each other a solution. After 15 or so minutes, ask each group to share their answers and what they learned. This activity helps develop problem-solving and knowledge skills.
+Education
+Teamwork
+1
+100
+Medium
+Classroom
+Outdoors
+5
+100
+N
+-
+10
+40
+N
