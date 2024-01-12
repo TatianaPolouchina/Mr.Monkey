@@ -3,7 +3,7 @@
 </p>
 
 <img src="https://github.com/DorisWZhang/Mr.Monkey/assets/118484320/b5a1454b-9466-4d1b-9a8b-b88a58d54b39"
-  width=700 height=700>
+  width=500 height=450>
 
 <h1>Features:</h1>
 
