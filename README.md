@@ -47,7 +47,7 @@
 
    <div>
     <h2> Group Generator </h2>
-      <p> Our Group Generator groupr the children based on the user’s requests, such as number of groups, number of people in groups, etc. This feature can take into account special requests as separating students who should not be in the same group.
+      <p> Our Group Generator groups the children based on the user’s requests, such as number of groups, number of people in groups, etc. This feature can take into account special requests as separating students who should not be in the same group.
       </p>
   </div>
 
